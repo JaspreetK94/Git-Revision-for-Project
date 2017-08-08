@@ -1,1 +1,1 @@
-Learning git stash command
+Learning Git advanced Concepts
